@@ -20,8 +20,8 @@
         {
             "FLAGS":
             {
-                "DATA_DIR"        : "/home/ansary/RESEARCH/MEDICAL/Data/",
-                "OUTPUT_DIR"      : "/home/ansary/RESEARCH/MEDICAL/Data/",
+                "DATA_DIR"        : "/home/akhlak/RESEARCH/MEDICAL/Data/",
+                "OUTPUT_DIR"      : "/home/akhlak/RESEARCH/MEDICAL/Data/",
                 "CLASSES"         : "eczema,psoriasis",
                 "IMAGE_DIM"       : 64,
                 "ROT_ANGLES"      : "5,10,15,20,30,45,60,75",
@@ -66,13 +66,6 @@
 *    Eval Data Size: **1152** images
 
 
-**ENVIRONMENT**  
-
-    OS          : Ubuntu 18.04.3 LTS (64-bit) Bionic Beaver        
-    Memory      : 7.7 GiB  
-    Processor   : Intel® Core™ i5-8250U CPU @ 1.60GHz × 8    
-    Graphics    : Intel® UHD Graphics 620 (Kabylake GT2)  
-    Gnome       : 3.28.2  
 
 
 # TPU(Tensor Processing Unit)
